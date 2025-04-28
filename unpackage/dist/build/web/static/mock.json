@@ -1,0 +1,285 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "pageInfo": {
+      "currentPage": 1,
+      "pageSize": 10,
+      "totalItems": 35,
+      "totalPages": 4,
+      "hasMore": true
+    },
+    "items": [
+      {
+        "id": "post001",
+        "type": "image",
+        "title": "【版本前瞻】手游新版本预告：重爪机械型，部分怪兽新形态！",
+        "description": "最新版本即将上线，带来全新游戏体验！",
+        "mediaUrl": "https://picsum.photos/600/800?random=1",
+        "thumbnailUrl": "https://picsum.photos/300/400?random=1",
+        "width": 600,
+        "height": 800,
+        "tags": ["游戏", "更新", "预告"],
+        "user": {
+          "id": "user001",
+          "name": "游戏天堂",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+          "isVerified": true,
+          "level": 15
+        },
+        "stats": {
+          "likes": 1024,
+          "comments": 89,
+          "shares": 45,
+          "views": 12500
+        },
+        "createdAt": "2025-04-27T08:30:00Z",
+        "updatedAt": "2025-04-27T08:30:00Z"
+      },
+      {
+        "id": "post002",
+        "type": "video",
+        "title": "【若梦与花】落在捧花梦里的小屋 ✿ 用田园风格装饰你的家1111111111",
+        "description": "分享我的家居装饰小技巧，希望对你有帮助！",
+        "mediaUrl": "https://video.shipin520.com/videos/17/36/71/b_KSyZ5ujXfz7R1567173671.mp4",
+		"coverUrl": "https://picsum.photos/600/400?random=2",
+        "thumbnailUrl": "https://vdept3.bdstatic.com/mda-rdbj37qdp9c70929/360p/h264/1744466076623605430/mda-rdbj37qdp9c70929.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1745841968-0-0-900ca4b2efc8cf314e63943023b66a3e&bcevod_channel=searchbox_feed&pd=1&cr=0&cd=0&pt=3&logid=0368516327&vid=12244830108624977567&klogid=0368516327&abtest=",
+        "duration": 65,
+        "width": 1280,
+        "height": 720,
+        "tags": ["家居", "装饰", "田园风"],
+        "user": {
+          "id": "user002",
+          "name": "小鱼儿家居",
+          "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+          "isVerified": false,
+          "level": 8
+        },
+        "stats": {
+          "likes": 756,
+          "comments": 42,
+          "shares": 23,
+          "views": 8900
+        },
+        "createdAt": "2025-04-27T10:15:00Z",
+        "updatedAt": "2025-04-27T10:15:00Z"
+      },
+      {
+        "id": "post003",
+        "type": "image",
+        "title": "【推荐地图】解锁樱花海滩！第三期",
+        "description": "发现游戏中最美的风景，带你领略不一样的游戏世界！",
+        "mediaUrl": "https://picsum.photos/600/900?random=3",
+        "thumbnailUrl": "https://picsum.photos/300/450?random=3",
+        "width": 600,
+        "height": 900,
+        "tags": ["游戏", "风景", "攻略"],
+        "user": {
+          "id": "user003",
+          "name": "攻略帝",
+          "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+          "isVerified": true,
+          "level": 20
+        },
+        "stats": {
+          "likes": 2048,
+          "comments": 156,
+          "shares": 87,
+          "views": 25600
+        },
+        "createdAt": "2025-04-27T12:45:00Z",
+        "updatedAt": "2025-04-27T12:45:00Z"
+      },
+      {
+        "id": "post004",
+        "type": "video",
+        "title": "三色猫行动：全面战场活跃性升级，夺魂，收集，来玩",
+        "description": "最新游戏活动攻略，教你如何快速通关！",
+        "mediaUrl": "https://video.shipin520.com/videos/93/83/32/a_UadwfC2hpPCR1607938332_10s_v1.mp4",
+        "coverUrl": "https://picsum.photos/600/400?random=4",
+        "thumbnailUrl": "https://picsum.photos/300/200?random=4",
+        "duration": 128,
+        "width": 1280,
+        "height": 720,
+        "tags": ["游戏", "活动", "攻略"],
+        "user": {
+          "id": "user004",
+          "name": "任意菌",
+          "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+          "isVerified": false,
+          "level": 12
+        },
+        "stats": {
+          "likes": 544,
+          "comments": 67,
+          "shares": 31,
+          "views": 9800
+        },
+        "createdAt": "2025-04-27T14:20:00Z",
+        "updatedAt": "2025-04-27T14:20:00Z"
+      },
+      {
+        "id": "post005",
+        "type": "video",
+        "title": "梅雨沙沙连招小技巧！用这一层叠加",
+        "description": "游戏高手分享的连招技巧，学会就能轻松制胜！",
+        "mediaUrl": "https://video.shipin520.com/videos/93/51/70/b_tXMWhpta3Ui01583935170_10s.mp4",
+        "coverUrl": "https://picsum.photos/600/400?random=5",
+        "thumbnailUrl": "https://picsum.photos/300/200?random=5",
+        "duration": 95,
+        "width": 1280,
+        "height": 720,
+        "tags": ["游戏", "技巧", "教程"],
+        "user": {
+          "id": "user005",
+          "name": "技术流大师",
+          "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+          "isVerified": true,
+          "level": 18
+        },
+        "stats": {
+          "likes": 1536,
+          "comments": 124,
+          "shares": 76,
+          "views": 18900
+        },
+        "createdAt": "2025-04-27T15:50:00Z",
+        "updatedAt": "2025-04-27T15:50:00Z"
+      },
+      {
+        "id": "post006",
+        "type": "image",
+        "title": "【每日一图】樱花季节的美丽风景",
+        "description": "春天到了，樱花盛开，分享一些美丽的风景照片",
+        "mediaUrl": "https://picsum.photos/600/700?random=6",
+        "thumbnailUrl": "https://picsum.photos/300/350?random=6",
+        "width": 600,
+        "height": 700,
+        "tags": ["风景", "樱花", "摄影"],
+        "user": {
+          "id": "user006",
+          "name": "摄影爱好者",
+          "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+          "isVerified": false,
+          "level": 9
+        },
+        "stats": {
+          "likes": 876,
+          "comments": 53,
+          "shares": 29,
+          "views": 10200
+        },
+        "createdAt": "2025-04-27T16:30:00Z",
+        "updatedAt": "2025-04-27T16:30:00Z"
+      },
+      {
+        "id": "post007",
+        "type": "video",
+        "title": "【游戏实况】最新副本通关攻略，一次过关！",
+        "description": "详细解说如何通过最新副本，避开所有陷阱",
+        "mediaUrl": "https://video.shipin520.com/videos/93/51/70/b_tXMWhpta3Ui01583935170_10s.mp4",
+        "coverUrl": "https://picsum.photos/600/400?random=7",
+        "thumbnailUrl": "https://picsum.photos/300/200?random=7",
+        "duration": 187,
+        "width": 1280,
+        "height": 720,
+        "tags": ["游戏", "攻略", "实况"],
+        "user": {
+          "id": "user007",
+          "name": "游戏解说员",
+          "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+          "isVerified": true,
+          "level": 16
+        },
+        "stats": {
+          "likes": 1280,
+          "comments": 98,
+          "shares": 54,
+          "views": 15600
+        },
+        "createdAt": "2025-04-27T17:45:00Z",
+        "updatedAt": "2025-04-27T17:45:00Z"
+      },
+      {
+        "id": "post008",
+        "type": "image",
+        "title": "【每周壁纸】精选游戏场景壁纸分享",
+        "description": "本周精选的高清游戏壁纸，快来收藏吧！",
+        "mediaUrl": "https://picsum.photos/600/600?random=8",
+        "thumbnailUrl": "https://picsum.photos/300/300?random=8",
+        "width": 600,
+        "height": 600,
+        "tags": ["壁纸", "游戏", "收藏"],
+        "user": {
+          "id": "user008",
+          "name": "壁纸控",
+          "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+          "isVerified": false,
+          "level": 7
+        },
+        "stats": {
+          "likes": 932,
+          "comments": 45,
+          "shares": 87,
+          "views": 11300
+        },
+        "createdAt": "2025-04-27T18:20:00Z",
+        "updatedAt": "2025-04-27T18:20:00Z"
+      },
+      {
+        "id": "post009",
+        "type": "video",
+        "title": "【游戏音乐】最新游戏原声带欣赏",
+        "description": "聆听最新游戏的精彩原声音乐，感受游戏的魅力",
+        "mediaUrl": "https://video.shipin520.com/videos/93/51/70/b_tXMWhpta3Ui01583935170_10s.mp4",
+        "coverUrl": "https://picsum.photos/600/400?random=9",
+        "thumbnailUrl": "https://picsum.photos/300/200?random=9",
+        "duration": 145,
+        "width": 1280,
+        "height": 720,
+        "tags": ["音乐", "游戏", "原声带"],
+        "user": {
+          "id": "user009",
+          "name": "音乐爱好者",
+          "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+          "isVerified": false,
+          "level": 10
+        },
+        "stats": {
+          "likes": 768,
+          "comments": 36,
+          "shares": 25,
+          "views": 9500
+        },
+        "createdAt": "2025-04-27T19:10:00Z",
+        "updatedAt": "2025-04-27T19:10:00Z"
+      },
+      {
+        "id": "post010",
+        "type": "image",
+        "title": "【游戏周边】限量版手办开箱展示",
+        "description": "刚到手的限量版游戏手办，和大家分享一下开箱体验",
+        "mediaUrl": "https://picsum.photos/600/800?random=10",
+        "thumbnailUrl": "https://picsum.photos/300/400?random=10",
+        "width": 600,
+        "height": 800,
+        "tags": ["手办", "开箱", "收藏"],
+        "user": {
+          "id": "user010",
+          "name": "手办收藏家",
+          "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+          "isVerified": true,
+          "level": 14
+        },
+        "stats": {
+          "likes": 1024,
+          "comments": 78,
+          "shares": 42,
+          "views": 13700
+        },
+        "createdAt": "2025-04-27T20:30:00Z",
+        "updatedAt": "2025-04-27T20:30:00Z"
+      }
+    ]
+  }
+}

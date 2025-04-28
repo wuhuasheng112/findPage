@@ -1,0 +1,285 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+      "pageInfo": {
+        "currentPage": 1,
+        "pageSize": 10,
+        "totalItems": 42,
+        "totalPages": 5,
+        "hasMore": true
+      },
+      "items": [
+        {
+          "id": "post101",
+          "type": "video",
+          "title": "【攻略】新手必看！如何快速升级并获得稀有装备",
+          "description": "专为新手玩家准备的详细攻略，助你快速成长！",
+          "mediaUrl": "https://video.shipin520.com/videos/13/66/21/a_WqEv3fp9FZXs1600136621_10s.mp4",
+          "coverUrl": "https://picsum.photos/600/400?random=101",
+          "thumbnailUrl": "https://picsum.photos/300/200?random=101",
+          "duration": 245,
+          "width": 1280,
+          "height": 720,
+          "tags": ["新手攻略", "装备", "升级"],
+          "user": {
+            "id": "user101",
+            "name": "游戏大神",
+            "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+            "isVerified": true,
+            "level": 25
+          },
+          "stats": {
+            "likes": 3256,
+            "comments": 187,
+            "shares": 95,
+            "views": 28500
+          },
+          "createdAt": "2025-04-25T09:15:00Z",
+          "updatedAt": "2025-04-25T09:15:00Z"
+        },
+        {
+          "id": "post102",
+          "type": "image",
+          "title": "【每日壁纸】超高清动漫场景精选",
+          "description": "精选高清动漫壁纸，让你的手机焕然一新！",
+          "mediaUrl": "https://picsum.photos/600/900?random=102",
+          "thumbnailUrl": "https://picsum.photos/300/450?random=102",
+          "width": 600,
+          "height": 900,
+          "tags": ["壁纸", "动漫", "高清"],
+          "user": {
+            "id": "user102",
+            "name": "动漫迷",
+            "avatar": "https://randomuser.me/api/portraits/women/23.jpg",
+            "isVerified": false,
+            "level": 8
+          },
+          "stats": {
+            "likes": 1876,
+            "comments": 56,
+            "shares": 124,
+            "views": 15600
+          },
+          "createdAt": "2025-04-25T10:30:00Z",
+          "updatedAt": "2025-04-25T10:30:00Z"
+        },
+        {
+          "id": "post103",
+          "type": "image",
+          "title": "【美食分享】自制游戏主题蛋糕，太可爱了！",
+          "description": "周末在家做了一个游戏主题蛋糕，分享一下制作过程~",
+          "mediaUrl": "https://picsum.photos/600/800?random=103",
+          "thumbnailUrl": "https://picsum.photos/300/400?random=103",
+          "width": 600,
+          "height": 800,
+          "tags": ["美食", "蛋糕", "手工"],
+          "user": {
+            "id": "user103",
+            "name": "甜点达人",
+            "avatar": "https://randomuser.me/api/portraits/women/24.jpg",
+            "isVerified": true,
+            "level": 12
+          },
+          "stats": {
+            "likes": 2345,
+            "comments": 178,
+            "shares": 89,
+            "views": 19800
+          },
+          "createdAt": "2025-04-25T11:45:00Z",
+          "updatedAt": "2025-04-25T11:45:00Z"
+        },
+        {
+          "id": "post104",
+          "type": "video",
+          "title": "【游戏音乐】钢琴演奏版《星空之旅》主题曲",
+          "description": "用钢琴演奏热门游戏《星空之旅》的主题曲，希望大家喜欢！",
+          "mediaUrl": "https://video.shipin520.com/videos/14/13/00/a_UbH2FEs8b2N61588141300_10s.mp4",
+          "coverUrl": "https://picsum.photos/600/400?random=104",
+          "thumbnailUrl": "https://picsum.photos/300/200?random=104",
+          "duration": 185,
+          "width": 1280,
+          "height": 720,
+          "tags": ["音乐", "钢琴", "游戏原声"],
+          "user": {
+            "id": "user104",
+            "name": "钢琴少年",
+            "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
+            "isVerified": false,
+            "level": 9
+          },
+          "stats": {
+            "likes": 4567,
+            "comments": 234,
+            "shares": 156,
+            "views": 35600
+          },
+          "createdAt": "2025-04-25T13:20:00Z",
+          "updatedAt": "2025-04-25T13:20:00Z"
+        },
+        {
+          "id": "post105",
+          "type": "image",
+          "title": "【Cosplay】我的《魔法世界》爱丽丝角色还原",
+          "description": "花了一个月准备的爱丽丝Cosplay，希望大家喜欢！",
+          "mediaUrl": "https://picsum.photos/600/900?random=105",
+          "thumbnailUrl": "https://picsum.photos/300/450?random=105",
+          "width": 600,
+          "height": 900,
+          "tags": ["Cosplay", "角色扮演", "魔法世界"],
+          "user": {
+            "id": "user105",
+            "name": "Cos小姐姐",
+            "avatar": "https://randomuser.me/api/portraits/women/26.jpg",
+            "isVerified": true,
+            "level": 16
+          },
+          "stats": {
+            "likes": 5678,
+            "comments": 345,
+            "shares": 234,
+            "views": 45600
+          },
+          "createdAt": "2025-04-25T14:50:00Z",
+          "updatedAt": "2025-04-25T14:50:00Z"
+        },
+        {
+          "id": "post106",
+          "type": "video",
+          "title": "【游戏解说】最新版本隐藏关卡攻略",
+          "description": "发现了一个隐藏关卡，分享给大家通关技巧！",
+          "mediaUrl": "https://video.shipin520.com/video_listen/588ku_preview/22/08/22/15/14/38/video63032cdee1096.mp4",
+          "coverUrl": "https://picsum.photos/600/400?random=106",
+          "thumbnailUrl": "https://picsum.photos/300/200?random=106",
+          "duration": 320,
+          "width": 1280,
+          "height": 720,
+          "tags": ["游戏攻略", "隐藏关卡", "技巧"],
+          "user": {
+            "id": "user106",
+            "name": "游戏探险家",
+            "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+            "isVerified": true,
+            "level": 20
+          },
+          "stats": {
+            "likes": 3456,
+            "comments": 267,
+            "shares": 145,
+            "views": 28900
+          },
+          "createdAt": "2025-04-25T16:15:00Z",
+          "updatedAt": "2025-04-25T16:15:00Z"
+        },
+        {
+          "id": "post107",
+          "type": "image",
+          "title": "【手绘】我画的游戏角色，花了三天时间完成",
+          "description": "用彩铅手绘的游戏主角，希望能得到大家的建议！",
+          "mediaUrl": "https://picsum.photos/600/800?random=107",
+          "thumbnailUrl": "https://picsum.photos/300/400?random=107",
+          "width": 600,
+          "height": 800,
+          "tags": ["手绘", "游戏角色", "彩铅"],
+          "user": {
+            "id": "user107",
+            "name": "画画少年",
+            "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
+            "isVerified": false,
+            "level": 7
+          },
+          "stats": {
+            "likes": 2345,
+            "comments": 156,
+            "shares": 78,
+            "views": 18900
+          },
+          "createdAt": "2025-04-25T17:40:00Z",
+          "updatedAt": "2025-04-25T17:40:00Z"
+        },
+        {
+          "id": "post108",
+          "type": "video",
+          "title": "【游戏彩蛋】你绝对不知道的10个隐藏细节",
+          "description": "这些隐藏的游戏彩蛋，99%的玩家都没发现过！",
+          "mediaUrl": "https://video.shipin520.com/videos/74/46/06/a_ruFcpaPBnTIZ1635744606_10s_v1.mp4",
+          "coverUrl": "https://picsum.photos/600/400?random=108",
+          "thumbnailUrl": "https://picsum.photos/300/200?random=108",
+          "duration": 275,
+          "width": 1280,
+          "height": 720,
+          "tags": ["游戏彩蛋", "隐藏细节", "冷知识"],
+          "user": {
+            "id": "user108",
+            "name": "彩蛋猎人",
+            "avatar": "https://randomuser.me/api/portraits/women/29.jpg",
+            "isVerified": true,
+            "level": 18
+          },
+          "stats": {
+            "likes": 6789,
+            "comments": 456,
+            "shares": 345,
+            "views": 56700
+          },
+          "createdAt": "2025-04-25T18:55:00Z",
+          "updatedAt": "2025-04-25T18:55:00Z"
+        },
+        {
+          "id": "post109",
+          "type": "image",
+          "title": "【周边开箱】限量版游戏主题键盘开箱",
+          "description": "刚到手的限量版游戏主题机械键盘，手感超级棒！",
+          "mediaUrl": "https://picsum.photos/600/700?random=109",
+          "thumbnailUrl": "https://picsum.photos/300/350?random=109",
+          "width": 600,
+          "height": 700,
+          "tags": ["开箱", "游戏周边", "机械键盘"],
+          "user": {
+            "id": "user109",
+            "name": "数码控",
+            "avatar": "https://randomuser.me/api/portraits/men/30.jpg",
+            "isVerified": false,
+            "level": 11
+          },
+          "stats": {
+            "likes": 1987,
+            "comments": 134,
+            "shares": 67,
+            "views": 15800
+          },
+          "createdAt": "2025-04-25T20:10:00Z",
+          "updatedAt": "2025-04-25T20:10:00Z"
+        },
+        {
+          "id": "post110",
+          "type": "video",
+          "title": "【游戏配置】2025年最佳游戏电脑配置推荐",
+          "description": "分享几套不同预算的游戏电脑配置，帮你省钱又能玩得爽！",
+          "mediaUrl": "https://video.shipin520.com/videos/75/34/29/b_mtx9s8T09xrX1625753429_10s_v1.mp4",
+          "coverUrl": "https://picsum.photos/600/400?random=110",
+          "thumbnailUrl": "https://picsum.photos/300/200?random=110",
+          "duration": 425,
+          "width": 1280,
+          "height": 720,
+          "tags": ["电脑配置", "硬件", "游戏设备"],
+          "user": {
+            "id": "user110",
+            "name": "硬件专家",
+            "avatar": "https://randomuser.me/api/portraits/men/31.jpg",
+            "isVerified": true,
+            "level": 22
+          },
+          "stats": {
+            "likes": 4567,
+            "comments": 345,
+            "shares": 234,
+            "views": 38900
+          },
+          "createdAt": "2025-04-25T21:30:00Z",
+          "updatedAt": "2025-04-25T21:30:00Z"
+        }
+      ]
+    }
+  }
